@@ -18,7 +18,10 @@ To analyze survival patterns based on gender, passenger class, and embarkation p
 - Socio-economic status played a major role in survival
 - Embarkation point had a moderate impact on survival
 
-## 📈 
+## 📈 Dashboard Preview
+### MySQL Dashboard
+### Excel Dashboard
+### Tableau Dashboard
 
 ## 📂 Files Included
 - Titanic Excel Analysis (.xlsx)
