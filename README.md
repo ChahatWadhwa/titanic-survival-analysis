@@ -32,4 +32,4 @@ To analyze survival patterns based on gender, passenger class, and embarkation p
 ---
 
 ## 📬 Contact
-Feel free to connect with me on LinkedIn for feedback or opportunities.
+Feel free to connect with me for feedback or opportunities.
